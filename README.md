@@ -1,5 +1,5 @@
 # Xcode developer disk images
-A repository which hosts all developer disk images for iOS, tvOS, watchOS
+This repository hosts all developer disk images for iOS, tvOS, watchOS
 
 ## What's New?
 
