@@ -14,6 +14,6 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 ### WatchOS
 * 6.0
 
-# Where is the disk images?
 
+# Where does your disk images locate?
 ![Where is Xcode disk images](https://raw.githubusercontent.com/haikieu/xcode-developer-disk-image-all-platforms/master/where%20is%20my%20developer%20disk%20images.png)
