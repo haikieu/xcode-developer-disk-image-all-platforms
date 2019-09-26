@@ -21,7 +21,7 @@ When your apple device got upgraded to new OS, the current XCode version you hav
 # Where to put the new disk images?
 Go to your XCode app in the Application folder, open its content and locate the appropriate platform which you're going to add the new disk image.
 
-For convenience to can immediately jump to these paths in Finder:
+For convenience, you can immediately jump to these paths in Finder by Cmd+G :
 + iOS: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 + tvOS: /Applications/Xcode.app/Contents/Developer/Platforms/AppletvOS.platform/DeviceSupport
 + watchOS: /Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/DeviceSupport
