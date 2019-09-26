@@ -15,7 +15,7 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 * 6.0
 
 # Why We need disk images?
-When your apple device got upgraded to new OS, the current XCode version you has been used doesn't have the appropriate disk image for that OS version. This prevents you to push the new build to the device.
+When your apple device got upgraded to new OS, the current XCode version you have used doesn't have the appropriate disk image for that OS version. This prevents you to push the build to the device.
 ![Why We need disk images](https://raw.githubusercontent.com/haikieu/xcode-developer-disk-image-all-platforms/master/Why%20do%20you%20need%20to%20update%20disk%20image.png)
 
 # Where to put the new disk images?
