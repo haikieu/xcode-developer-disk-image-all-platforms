@@ -4,14 +4,18 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 ## What's New?
 
 ### tvOS
+* 13.2
 * 13.0
 * 12.3
 
 ### iOS
+* 13.2
+* 13.1
 * 13.0
 * 12.3
 
 ### WatchOS
+* 6.1
 * 6.0
 
 # Why We need disk images?
