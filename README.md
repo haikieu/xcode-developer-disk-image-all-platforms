@@ -20,6 +20,7 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 * 12.3
 
 ### WatchOS
+* 6.2
 * 6.1
 * 6.0
 
