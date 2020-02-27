@@ -1,6 +1,5 @@
 # Xcode developer disk images
-This repository is to host all developer disk images for iOS, tvOS, watchOS.
-If your need one of them, look it up here for convenience.
+This repository is to host all developer disk images for iOS, tvOS, watchOS. If your need one of them, look it up here for convenience.
 
 ## What's available?
 
