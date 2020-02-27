@@ -4,14 +4,14 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 ## What's New?
 
 ### tvOS
-* 13.4
+* 13.4 (The latest from XCode Beta 11)
 * 13.3
 * 13.2
 * 13.0
 * 12.3
 
 ### iOS
-* 13.4
+* 13.4 (The latest from XCode Beta 11)
 * 13.3
 * 13.2
 * 13.1.2
