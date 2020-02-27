@@ -9,6 +9,20 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 * 13.2
 * 13.0
 * 12.3
+* 12.2
+* 12.1
+* 12.0
+* 11.4
+* 11.3
+* 11.2
+* 11.1
+* 11.0
+* 10.2
+* 10.1
+* 10.0
+* 9.2
+* 9.1
+* 9.0
 
 ### iOS
 * 13.4 (The latest from XCode Beta 11)
@@ -18,11 +32,45 @@ This repository hosts all developer disk images for iOS, tvOS, watchOS
 * 13.1
 * 13.0
 * 12.3
+* 12.2
+* 12.1
+* 12.0
+* 11.4
+* 11.3
+* 11.2
+* 11.1
+* 11.0
+* 10.3
+* 10.2
+* 10.1
+* 10.0
+* 9.3
+* 9.2
+* 9.1
+* 9.0
+* 8.4
+* 8.3
+* 8.2
+* 8.1
+* 8.0
 
 ### WatchOS
 * 6.2
 * 6.1
 * 6.0
+* 5.2
+* 5.1
+* 5.0
+* 4.3
+* 4.2
+* 4.1
+* 4.0
+* 3.2
+* 3.1
+* 3.0
+* 2.2
+* 2.1
+* 2.0
 
 # Why We need disk images?
 When your apple device got upgraded to new OS, the current XCode version you have used doesn't have the appropriate disk image for that OS version. This prevents you to push the build to the device.
