@@ -25,6 +25,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 * 9.0
 
 ### iOS
+* 13.5 (The latest from XCode 11 Beta 5)
 * 13.4 (The latest from XCode 11 Beta 4)
 * 13.3
 * 13.2
