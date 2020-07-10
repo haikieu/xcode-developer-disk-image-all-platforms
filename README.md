@@ -3,7 +3,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 
 ## What's available?
 
-### tvOS
+### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
 * 14.0 (Extracted from XCode 12 beta)
 * 13.4 (Extracted from XCode 11 Beta 4)
 * 13.3
@@ -25,7 +25,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 * 9.1
 * 9.0
 
-### iOS (iOS release note: https://support.apple.com/en-us/HT210393)
+### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
 * 14.0 (Extracted from XCode 12 Beta)
 * 13.5 (Extracted from XCode 11 Beta 5)
 * 13.4 (Extracted from XCode 11 Beta 4)
@@ -57,7 +57,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 * 8.1
 * 8.0
 
-### WatchOS
+### WatchOS - [release note](https://developer.apple.com/documentation/watchos-release-notes)
 * 7.0 (Extracted from XCode 12 Beta)
 * 6.2
 * 6.1
