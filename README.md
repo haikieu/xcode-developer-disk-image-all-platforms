@@ -27,6 +27,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
 * 14.0 (Extracted from XCode 12 Beta)
+* 13.7 (Extracted from XCode 11 Beta 7)
 * 13.6 (Extracted from XCode 11 Beta 6)
 * 13.5 (Extracted from XCode 11 Beta 5)
 * 13.4 (Extracted from XCode 11 Beta 4)
