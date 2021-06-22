@@ -1,3 +1,5 @@
+# Disclaimer: These shared resources from this repo are contributed from many contributors. The availble resources may have not been verified, and could have not been officially released from Apple. So please consider your own risk before using any of them, We'll not bear any responsiblities under any circumstances. 
+
 # Xcode developer disk images
 
 This repository is to host all developer disk images for iOS, tvOS, watchOS. If your need one of them, look it up here for convenience.
