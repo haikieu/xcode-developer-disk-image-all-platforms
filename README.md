@@ -4,35 +4,10 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 
 ## What's available?
 
-### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
-* 15.0
-* 14.5
-* 14.4
-* 14.3
-* 14.2
-* 14.0
-* 13.4
-* 13.3
-* 13.2
-* 13.0
-* 12.3
-* 12.2
-* 12.1
-* 12.0
-* 11.4
-* 11.3
-* 11.2
-* 11.1
-* 11.0
-* 10.2
-* 10.1
-* 10.0
-* 9.2
-* 9.1
-* 9.0
 
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
 * 15.0
+* 14.6
 * 14.5
 * 14.4
 * 14.4
@@ -70,6 +45,34 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 * 8.2
 * 8.1
 * 8.0
+
+
+### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
+* 15.0
+* 14.5
+* 14.4
+* 14.3
+* 14.2
+* 14.0
+* 13.4
+* 13.3
+* 13.2
+* 13.0
+* 12.3
+* 12.2
+* 12.1
+* 12.0
+* 11.4
+* 11.3
+* 11.2
+* 11.1
+* 11.0
+* 10.2
+* 10.1
+* 10.0
+* 9.2
+* 9.1
+* 9.0
 
 ### WatchOS - [release note](https://developer.apple.com/documentation/watchos-release-notes)
 * 8.0
