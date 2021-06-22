@@ -1,4 +1,4 @@
-##### Disclaimer: The available resources and files from this repo are contributed from many contributors. The available resources may have not been verified, and could have not been officially released from Apple. So please consider your own risk before using any of them, We'll not bear any responsiblities toward your use under any circumstances.
+##### Disclaimer: The available resources and files from this repo are contributed from many contributors. The available resources might not  verified, and could have not been officially released from Apple. So please consider your own risk before using any of them, We'll not bear any responsiblities toward your use under any circumstances.
 
 # Xcode developer disk images
 
