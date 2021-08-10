@@ -2,7 +2,7 @@
 
 # Xcode developer disk images
 
-This repository is to host all developer disk images for iOS, tvOS, watchOS. If your need one of them, look it up here for convenience.
+This repository is provided to host all developer disk images for iOS, tvOS, watchOS. If you need one of them, look it up here for convenience.
 
 ## What's available?
 
@@ -11,7 +11,6 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 * 15.0
 * 14.6
 * 14.5
-* 14.4
 * 14.4
 * 14.3
 * 14.2
@@ -102,7 +101,7 @@ This repository is to host all developer disk images for iOS, tvOS, watchOS. If 
 
 ## Why We need disk images?
 
-When your apple device got upgraded to new OS, the current XCode version you have used doesn't have the appropriate disk image for that OS version. This prevents you to push the build to the device.
+When your apple device gets upgraded to a new OS, the current XCode version you have used prior doesn't provide the appropriate disk image for that OS version. This prevents you to push the build to the device.
 ![Why We need disk images](https://raw.githubusercontent.com/haikieu/xcode-developer-disk-image-all-platforms/master/Why%20do%20you%20need%20to%20update%20disk%20image.png)
 
 ## Where to put the new disk images?
