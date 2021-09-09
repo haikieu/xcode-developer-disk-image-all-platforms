@@ -50,6 +50,8 @@ This repository is provided to host all developer disk images for iOS, tvOS, wat
 
 ### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
 * 15.0
+* 14.7
+* 14.6
 * 14.5
 * 14.4
 * 14.3
