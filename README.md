@@ -8,6 +8,7 @@ This repository is provided to host all developer disk images for iOS, tvOS, wat
 
 
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
+* 15.4
 * 15.2
 * 15.0
 * 14.7
@@ -51,6 +52,7 @@ This repository is provided to host all developer disk images for iOS, tvOS, wat
 
 
 ### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
+* 15.4
 * 15.2
 * 15.0
 * 14.7
@@ -81,6 +83,7 @@ This repository is provided to host all developer disk images for iOS, tvOS, wat
 * 9.0
 
 ### WatchOS - [release note](https://developer.apple.com/documentation/watchos-release-notes)
+* 8.5
 * 8.3
 * 8.0
 * 7.4
