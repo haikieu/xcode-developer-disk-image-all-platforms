@@ -8,6 +8,7 @@ This repository is provided to host all developer disk images for iOS, tvOS, wat
 
 
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
+* 15.5
 * 15.4
 * 15.2
 * 15.0
