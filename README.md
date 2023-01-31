@@ -132,4 +132,9 @@ For convenience, you can immediately jump to these paths in Finder by the hotkey
 * tvOS: /Applications/Xcode.app/Contents/Developer/Platforms/AppletvOS.platform/DeviceSupport
 * watchOS: /Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/DeviceSupport
 
+# DEVELOPER MODE required in iOS 16+
+
+With device running iOS 16, DEVELOPER MODE is required, so that XCode can sync up with the iDevice.
+To enable this, on the iDevice, Go to Settings > Privacy & Security > Developer Mode to show the Developer Mode toggle, and enable it.
+
 ![Where is Xcode disk images](https://raw.githubusercontent.com/haikieu/xcode-developer-disk-image-all-platforms/master/where%20is%20my%20developer%20disk%20images.png)
