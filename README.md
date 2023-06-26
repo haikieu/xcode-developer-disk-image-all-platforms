@@ -13,6 +13,7 @@ To enable this, on the iDevice, Go to Settings > Privacy & Security > Developer 
 ## What's available?
 
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
+* 16.4
 * 16.1
 * 16.0
 * 15.5
@@ -60,6 +61,7 @@ To enable this, on the iDevice, Go to Settings > Privacy & Security > Developer 
 
 
 ### tvOS - [release note](https://developer.apple.com/documentation/tvos-release-notes)
+* 16.4
 * 16.1
 * 16.0
 * 15.6
@@ -94,6 +96,7 @@ To enable this, on the iDevice, Go to Settings > Privacy & Security > Developer 
 * 9.0
 
 ### WatchOS - [release note](https://developer.apple.com/documentation/watchos-release-notes)
+* 9.4
 * 9.1
 * 9.0
 * 8.7
