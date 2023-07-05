@@ -127,12 +127,12 @@ To enable this, on the iDevice, Go to Settings > Privacy & Security > Developer 
 
 ## Why We need disk images?
 
-When your apple device gets upgraded to a new OS, the current XCode version you have used prior doesn't provide the appropriate disk image for that OS version. This prevents you to push the build to the device.
+When your Apple device is upgraded to a new operating system, the current version of Xcode you have been using may not have the appropriate disk image matching that OS version. Consequently, you may encounter failures when attempting to push the build to the device using Xcode.
 ![Why We need disk images](https://raw.githubusercontent.com/haikieu/xcode-developer-disk-image-all-platforms/master/Why%20do%20you%20need%20to%20update%20disk%20image.png)
 
 ## Where to put the new disk images?
 
-Go to your XCode app in the Application folder, open its content and locate the appropriate platform which you're going to add the new disk image.
+To locate the Xcode app, navigate to the Applications folder in Finder. Open the Xcode app and access its contents. From there, locate the target platform for which you intend to upgrade with the new disk image.
 
 For convenience, you can immediately jump to these paths in Finder by the hotkey Cmd+Shift+G :
 
